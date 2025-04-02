@@ -1,7 +1,7 @@
-# Coffee Shop Website
+# Premium Coffee House Website
 
 ## Description
-This is a responsive Coffee Shop website built using HTML, CSS, and JavaScript. It features a dynamic menu, a blog section, and a shopping cart for ordering coffee items.
+This is a responsive Premium Coffee House Websitee built using HTML, CSS, and JavaScript. It features a dynamic menu, a blog section, and a shopping cart for ordering coffee items.
 
 ## Features
 - Attractive homepage with a hero section
